@@ -1,0 +1,25 @@
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_log.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+ Volume in drive D is DATA
+ Volume Serial Number is 90EE-5B10
+
+ Directory of d:\Code\Python\petroleum_viewer\.git
+
+01/16/2026  11:14 AM    <DIR>          .
+01/16/2026  11:14 AM    <DIR>          ..
+01/16/2026  11:14 AM                15 COMMIT_EDITMSG
+01/16/2026  11:14 AM               130 config
+01/16/2026  11:14 AM                73 description
+01/16/2026  11:14 AM                23 HEAD
+01/16/2026  11:14 AM    <DIR>          hooks
+01/16/2026  11:14 AM             2,731 index
+01/16/2026  11:14 AM    <DIR>          info
+01/16/2026  11:14 AM    <DIR>          logs
+01/16/2026  11:14 AM    <DIR>          objects
+01/16/2026  11:14 AM    <DIR>          refs
+               5 File(s)          2,972 bytes
+               7 Dir(s)  141,519,556,608 bytes free
